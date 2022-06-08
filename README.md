@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Abu Shama</h1>
-<h3 align="center">A passionate web developer.</h3>
+### Hi there 👋, I'm Abu Shama
+#### A passionate web developer.
+![A passionate web developer.](https://media-exp1.licdn.com/dms/image/C5616AQEhJ2_X1Ni3FA/profile-displaybackgroundimage-shrink_350_1400/0/1654698717792?e=1660176000&v=beta&t=A9laywrtGQ1Trh-bq66NwC3VYFchSatIvdn2QXHrv6w)
+
+Frontend Web Developer at Softlab Ltd. || Web Developer at ITFLE Ltd. || MERN Developer || Shopify, WiX and Squarespace Expert || E-commerce Web Developer || BBA Major at Finance and Banking, BRUR.
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=assiddik01&label=Profile%20views&color=0e75b6&style=flat" alt="assiddik01" /> </p>
 
