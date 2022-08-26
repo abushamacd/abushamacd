@@ -1,5 +1,5 @@
 
-![A passionate web developer.](https://media-exp1.licdn.com/dms/image/C5616AQEhJ2_X1Ni3FA/profile-displaybackgroundimage-shrink_350_1400/0/1654698717792?e=1660176000&v=beta&t=A9laywrtGQ1Trh-bq66NwC3VYFchSatIvdn2QXHrv6w)
+![A passionate web developer.](https://drive.google.com/file/d/1P9RKZ2F33kmsJ7AcOO1_m8_slMdAGdWu/view?usp=sharing)
 
 # Hi there 👋, I'm Abu Shama
 ## A passionate web developer.
