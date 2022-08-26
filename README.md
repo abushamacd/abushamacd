@@ -1,5 +1,5 @@
 
-![A passionate web developer.](https://drive.google.com/file/d/1P9RKZ2F33kmsJ7AcOO1_m8_slMdAGdWu/view?usp=sharing)
+![A passionate web developer.](https://github.com/ASSiddik01/ASSiddik01/blob/main/img/profile_banner.png)
 
 # Hi there 👋, I'm Abu Shama
 ## A passionate web developer.
