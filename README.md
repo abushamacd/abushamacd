@@ -25,7 +25,7 @@ Frontend Web Developer at Softlab Ltd. || Web Developer at ITFLE Ltd. || MERN De
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1YSgPPC0hfc27X-0b_oZ4WBm6w23Udj5D/view?usp=sharing](https://drive.google.com/file/d/1YSgPPC0hfc27X-0b_oZ4WBm6w23Udj5D/view?usp=sharing)
 
-- ⚡ Fun fact **I think I am roboot (emotionless)**
+- ⚡ Fun fact **People think I am roboot (emotionless)**
 
 ![GitHub metrics](https://metrics.lecoq.io/ASSiddik01)  
 
