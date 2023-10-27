@@ -1,10 +1,10 @@
 
-![A passionate web developer.](https://github.com/ASSiddik01/ASSiddik01/blob/main/img/profile_banner.png)
+![A passionate web developer.](https://i.ibb.co/z5KysXk/profile-banner.png)
 
 # Hi there 👋, I'm Abu Shama
 ## A passionate web developer.
 
-Frontend Web Developer at Softlab Ltd. || Web Developer at ITFLE Ltd. || MERN Developer || Shopify, WiX and Squarespace Expert || E-commerce Web Developer || BBA Major at Finance and Banking, BRUR.
+Frontend Web Developer at ITFLE Ltd. || MERN Developer || Shopify, WiX, and Squarespace Expert || E-commerce Web Developer || BBA Major at Finance and Banking, BRUR.
 
 
 ![Profile views](https://gpvc.arturio.dev/ASSiddik01)  
