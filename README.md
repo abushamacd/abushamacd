@@ -7,7 +7,7 @@
 Frontend Web Developer at ITFLE Ltd. || MERN Developer || Shopify, WiX, and Squarespace Expert || E-commerce Web Developer || BBA Major at Finance and Banking, BRUR.
 
 
-![Profile views](https://gpvc.arturio.dev/ASSiddik01)  
+![Profile views](https://gpvc.arturio.dev/abushamacd)  
 
 <p align="left"> <a href="https://twitter.com/abusham16193622" target="blank"><img src="https://img.shields.io/twitter/follow/abusham16193622?logo=twitter&style=for-the-badge" alt="abusham16193622" /></a> </p>
 
@@ -27,7 +27,7 @@ Frontend Web Developer at ITFLE Ltd. || MERN Developer || Shopify, WiX, and Squa
 
 - ⚡ Fun fact **People think I am roboot (emotionless)**
 
-![GitHub metrics](https://metrics.lecoq.io/ASSiddik01)  
+![GitHub metrics](https://metrics.lecoq.io/abushamacd)  
 
 <h3 align="left">Github Badges:</h3>
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
