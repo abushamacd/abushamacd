@@ -1,5 +1,5 @@
-<div align="center">
-  <img height="168" src="https://res.cloudinary.com/delu47omx/image/upload/v1711787541/MyPort/profile/coverpage_uac3zd.jpg"  />
+<div align="left">
+  <img src="https://res.cloudinary.com/delu47omx/image/upload/v1711787541/MyPort/profile/coverpage_uac3zd.jpg"  />
 </div>
 
 ###
